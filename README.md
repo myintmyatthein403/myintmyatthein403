@@ -25,6 +25,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on Web Dev
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/myintmyatthein403/)
