@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on Web Dev
 
 ## 🌟 Contributions Graph
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=myintmyatthein403&theme=github)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=myintmyatthein403&theme=dracula)](https://github.com/myintmyatthein403/github-readme-activity-graph)
 
 ## 🛠️ Technologies & Tools
 
