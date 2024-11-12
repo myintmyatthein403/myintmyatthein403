@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Myint Myat Thein!
 
-Welcome to my GitHub profile! I'm a passionate developer with a focus on Web Development. Here you'll find information about my work, contributions, and some fun facts.
+Welcome to my GitHub profile! I'm a passionate developer with a focus on Web Development. You'll find information about my work, contributions, and fun facts here.
 
 ## 📊 GitHub Stats
 
