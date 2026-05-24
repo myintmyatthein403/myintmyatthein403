@@ -26,3 +26,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on Web Dev
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/myintmyatthein403/)
+- ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/myintmyatthein403)
